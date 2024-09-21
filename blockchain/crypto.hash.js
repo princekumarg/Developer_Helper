@@ -7,3 +7,4 @@ const cryptoHash = (...inputs) => {
 
 //result = cryptoHash("world", "hello");
 module.exports = cryptoHash;
+//console.log(result);
